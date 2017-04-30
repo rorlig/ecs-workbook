@@ -1,4 +1,0 @@
-Public DNS
-ec2-54-145-168-233.compute-1.amazonaws.com
-
-Security Group
