@@ -1,0 +1,4 @@
+#!/bin/bash
+# config file to ec2 instance -- container instance 
+yum install -y aws-cli
+aws s3 cp s3://gg_deepdive/ecs.config /etc/ecs/ecs.config
