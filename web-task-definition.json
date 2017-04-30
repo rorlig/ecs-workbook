@@ -2,7 +2,7 @@
   "containerDefinitions": [
     {
       "name": "nginx",
-      "image": "nginx",
+      "image": "909603365907.dkr.ecr.us-east-1.amazonaws.com/deepdive/nginx:1.9",
       "portMappings": [
         {
           "containerPort": 80,
